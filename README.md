@@ -2,7 +2,7 @@
 This repository contain HTML and Python files that are needed to make this program
 And Database such as MySQL or SQLite (Every kind of database are good but i use MySQL as my Database when developing)
 
-Note : Some variables here are written on Indonesian, you can search it by translating it etc.
+Note : Some variables here are written on Indonesian, you can search it by translating it
 
 Table named user to collect user information :
 - id integer(11) not null primary key auto_increment
