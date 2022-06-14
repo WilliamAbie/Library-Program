@@ -1,5 +1,7 @@
 # Library-Program
 This repository contain HTML and Python files that are needed to make this program
+For the modules, you will need to install Flask and mysql-connector on pip python. For this kind of project, i'd love to use environment first before installing anything. So my main modules won't mix with the others
+
 And Database such as MySQL or SQLite (Every kind of database are good but i use MySQL as my Database when developing)
 
 Note : Some variables here are written on Indonesian, you can search it by translating it
